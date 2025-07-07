@@ -12,4 +12,27 @@ A basic Django project created as part of the Complete Django & Web Scraping Cur
 git clone https://github.com/yourusername/hello_world.git
 cd hello_world
 
-Enjoy !!
+2. Install dependencies
+
+pip install -r requirements.txt
+
+## Features list 
+
+Creating account and navigate through blog websites
+
+Tech Stack
+
+- Python
+- Django
+- React
+- Postgresql/Celeri
+
+## About the author
+
+Lucas RAZAFIARIMANANA 
+Web developer with 3 years of experiences
+
+
+
+
+
